@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/api/badge" },
+    { "source": "/:theme", "destination": "/api/badge?theme=:theme" }
+  ],
+  "functions": {
+    "api/badge.js": {
+      "includeFiles": "badges/**"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="t d">
+  <title id="t">Mountain activity, 3 months</title>
+  <desc id="d">Decorative activity curve for a three-month span.</desc>
+  <defs>
+    <clipPath id="clip"><rect width="495" height="180" rx="12"/></clipPath>
+    
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4a07a" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#c4a07a" stop-opacity="0.05"/>
+    </linearGradient>
+    
+  </defs>
+  <g clip-path="url(#clip)">
+    
+    <rect width="495" height="180" fill="#2c2823"/>
+    <path d="M0 168 L0 146 L52 128 L98 144 L156 122 L214 140 L270 126 L328 146 L386 130 L444 142 L495 128 L495 180 H0 Z" fill="#3a342c"/>
+    <path d="M0 180 L0 158 L70 146 L150 160 L230 148 L310 162 L390 150 L495 156 L495 180 Z" fill="#211e1a"/>
+    <path d="M 40.0 135.2 C 45.8 133.0 63.2 123.2 74.7 122.1 C 86.2 121.0 97.8 131.1 109.3 128.7 C 120.8 126.2 132.4 109.3 144.0 107.4 C 155.6 105.5 167.1 119.7 178.7 117.2 C 190.2 114.7 201.8 93.4 213.3 92.6 C 224.9 91.8 236.4 111.3 248.0 112.3 C 259.6 113.2 271.1 103.8 282.7 98.3 C 294.2 92.8 305.8 76.6 317.3 79.5 C 328.9 82.4 340.4 116.7 352.0 115.6 C 363.6 114.5 375.1 75.4 386.7 72.9 C 398.2 70.4 409.8 98.6 421.3 100.8 C 432.9 103.0 450.2 88.5 456.0 86.0 L 456.0 150 L 40.0 150 Z" fill="url(#rock)"/>
+    <line x1="178.7" y1="46" x2="178.7" y2="150" stroke="#e6d8c8" stroke-opacity="0.12" stroke-dasharray="2 5"/>
+<line x1="317.3" y1="46" x2="317.3" y2="150" stroke="#e6d8c8" stroke-opacity="0.12" stroke-dasharray="2 5"/>
+    <path d="M 40.0 135.2 C 45.8 133.0 63.2 123.2 74.7 122.1 C 86.2 121.0 97.8 131.1 109.3 128.7 C 120.8 126.2 132.4 109.3 144.0 107.4 C 155.6 105.5 167.1 119.7 178.7 117.2 C 190.2 114.7 201.8 93.4 213.3 92.6 C 224.9 91.8 236.4 111.3 248.0 112.3 C 259.6 113.2 271.1 103.8 282.7 98.3 C 294.2 92.8 305.8 76.6 317.3 79.5 C 328.9 82.4 340.4 116.7 352.0 115.6 C 363.6 114.5 375.1 75.4 386.7 72.9 C 398.2 70.4 409.8 98.6 421.3 100.8 C 432.9 103.0 450.2 88.5 456.0 86.0" fill="none" stroke="#e0b088" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 40.0 135.2 C 45.8 133.0 63.2 123.2 74.7 122.1 C 86.2 121.0 97.8 131.1 109.3 128.7 C 120.8 126.2 132.4 109.3 144.0 107.4 C 155.6 105.5 167.1 119.7 178.7 117.2 C 190.2 114.7 201.8 93.4 213.3 92.6 C 224.9 91.8 236.4 111.3 248.0 112.3 C 259.6 113.2 271.1 103.8 282.7 98.3 C 294.2 92.8 305.8 76.6 317.3 79.5 C 328.9 82.4 340.4 116.7 352.0 115.6 C 363.6 114.5 375.1 75.4 386.7 72.9 C 398.2 70.4 409.8 98.6 421.3 100.8 C 432.9 103.0 450.2 88.5 456.0 86.0" fill="none" stroke="#8a4e2c" stroke-width="1" stroke-opacity="0.0"/>
+    <circle cx="456.0" cy="86.0" r="3.4" fill="#e0b088"/><circle cx="456.0" cy="86.0" r="1.7" fill="#2c2823"/>
+    <g transform="translate(18 13) scale(1.12)" stroke-linejoin="round">
+      <path d="M14 26 L23 9 L32 26 Z" fill="#6d6257"/>
+      <path d="M23 9 L26.6 15.6 L19.4 15.6 Z" fill="#cec3b5"/>
+      <path d="M0 26 L12 2 L24 26 Z" fill="#a2937f"/>
+      <path d="M12 2 L24 26 L12 26 Z" fill="#87796a"/>
+      <path d="M12 2 L17.4 12.8 L6.6 12.8 Z" fill="#f4ece1"/>
+      <path d="M12 2 L17.4 12.8 L12 12.8 Z" fill="#d9cfc2"/>
+    </g>
+    <path d="M452 28 L458 36 L452 44 L446 36 Z" fill="#7fafa6"/>
+    <path d="M452 28 L458 36 L452 36 Z" fill="#e7f4f1" opacity="0.8"/>
+    <text x="430" y="32" fill="#b3a394" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">3 months</text>
+    
+  </g>
+</svg>
