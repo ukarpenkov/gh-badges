@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="t d">
-  <title id="t">Cubism activity, 3 months</title>
+  <title id="t">Cubism activity, this month</title>
   <desc id="d">Decorative activity curve for a three-month span.</desc>
   <defs>
     <clipPath id="clip"><rect width="495" height="180" rx="12"/></clipPath>
@@ -17,7 +17,7 @@
     <line x1="40" y1="150" x2="456" y2="150" stroke="#161616" stroke-opacity="0.35"/>
     <path d="M 45.0 129.2 L 79.7 116.1 L 114.3 122.69999999999999 L 149.0 101.4 L 183.7 111.2 L 218.3 86.6 L 253.0 106.3 L 287.7 92.3 L 322.3 73.5 L 357.0 109.6 L 391.7 66.9 L 426.3 94.8 L 461.0 80.0" fill="none" stroke="#f3ecdf" stroke-width="5" stroke-linejoin="miter" stroke-linecap="butt"/>
     <path d="M 40.0 135.2 L 74.7 122.1 L 109.3 128.7 L 144.0 107.4 L 178.7 117.2 L 213.3 92.6 L 248.0 112.3 L 282.7 98.3 L 317.3 79.5 L 352.0 115.6 L 386.7 72.9 L 421.3 100.8 L 456.0 86.0" fill="none" stroke="#161616" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="butt"/>
-    <text x="474" y="28" fill="#3a342c" font-family="Georgia, Times New Roman, serif" font-size="12" text-anchor="end">3 months</text>
+    <text x="474" y="28" fill="#3a342c" font-family="Georgia, Times New Roman, serif" font-size="12" text-anchor="end">this month</text>
     
   </g>
 </svg>

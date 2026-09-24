@@ -1,14 +1,14 @@
 # Themed activity badges
 
-Ten cards for a GitHub profile README. Each one shows 3 months of activity (13 weeks).
+Ten cards for a GitHub profile README. Each one shows the current calendar month, from the 1st through today. It resets on the 1st: October starts as a single day.
 
-Live numbers come from a Node server (`server.js`). It fetches the contribution calendar from GitHub and draws an SVG. Files in `badges/` are visual templates; they do not know which account they belong to. On LEGO and Minecraft the same weeks are shown as bars. Height is scaled to the busiest week in that window.
+Live numbers come from a Node server (`server.js`). It fetches the contribution calendar from GitHub and draws an SVG. Files in `badges/` are visual templates; they do not know which account they belong to. The corner reads like `349 contributions` plus the month (`sept`, `oct`). Each day is a peak labeled with that day's count. Height is scaled to the busiest day in the month.
 
 ```bash
 node server.js
 ```
 
-Public URL: `https://gh-badges-nine.vercel.app`. In the examples below the login is `ukarpenkov` — replace it with yours. Locally the same path is `http://127.0.0.1:8787/fallout?user=ukarpenkov`. An optional `GITHUB_TOKEN` switches the request to the official GraphQL API.
+Public URL: `https://gh-badges-nine.vercel.app`. In the examples below the login is `username` — replace it with yours. Locally the same path is `http://127.0.0.1:8787/fallout?user=username`. An optional `GITHUB_TOKEN` switches the request to the official GraphQL API.
 
 ## How to embed
 
@@ -21,7 +21,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Elvish](badges/elvish.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/elvish?user=ukarpenkov" alt="3 months of activity, elvish theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/elvish?user=username" alt="activity this month, elvish theme" width="495" height="180">
 ```
 
 ### Mountain
@@ -29,7 +29,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Mountain](badges/mountain.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/mountain?user=ukarpenkov" alt="3 months of activity, mountain theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/mountain?user=username" alt="activity this month, mountain theme" width="495" height="180">
 ```
 
 ### Anime
@@ -37,7 +37,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Anime](badges/anime.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/anime?user=ukarpenkov" alt="3 months of activity, anime" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/anime?user=username" alt="activity this month, anime" width="495" height="180">
 ```
 
 ### Cats
@@ -45,7 +45,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Cats](badges/cats.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/cats?user=ukarpenkov" alt="3 months of activity, cats" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/cats?user=username" alt="activity this month, cats" width="495" height="180">
 ```
 
 ### Automotive
@@ -53,7 +53,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Automotive](badges/automotive.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/automotive?user=ukarpenkov" alt="3 months of activity, automotive theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/automotive?user=username" alt="activity this month, automotive theme" width="495" height="180">
 ```
 
 ### Circuits
@@ -61,7 +61,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Circuits](badges/circuits.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/circuits?user=ukarpenkov" alt="3 months of activity, circuits" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/circuits?user=username" alt="activity this month, circuits" width="495" height="180">
 ```
 
 ### Cubism
@@ -69,7 +69,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Cubism](badges/cubism.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/cubism?user=ukarpenkov" alt="3 months of activity, cubism" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/cubism?user=username" alt="activity this month, cubism" width="495" height="180">
 ```
 
 ### Fallout
@@ -77,7 +77,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Fallout](badges/fallout.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/fallout?user=ukarpenkov" alt="3 months of activity, Fallout" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/fallout?user=username" alt="activity this month, Fallout" width="495" height="180">
 ```
 
 ### LEGO
@@ -85,7 +85,7 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![LEGO](badges/lego.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/lego?user=ukarpenkov" alt="3 months of activity, LEGO" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/lego?user=username" alt="activity this month, LEGO" width="495" height="180">
 ```
 
 ### Minecraft
@@ -93,5 +93,5 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ![Minecraft](badges/minecraft.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/minecraft?user=ukarpenkov" alt="3 months of activity, Minecraft" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/minecraft?user=username" alt="activity this month, Minecraft" width="495" height="180">
 ```

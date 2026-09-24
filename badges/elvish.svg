@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="t d">
-  <title id="t">Elvish activity, 3 months</title>
+  <title id="t">Elvish activity, this month</title>
   <desc id="d">Decorative activity curve for a three-month span.</desc>
   <defs>
     <clipPath id="clip"><rect width="495" height="180" rx="12"/></clipPath>
@@ -31,7 +31,7 @@
       </g>
       <path d="M0 15 C 0 19 -2 21 -5 22" fill="none" stroke="#e3d3a4" stroke-width="1.8" stroke-linecap="round"/>
     </g>
-    <text x="474" y="32" fill="#9bb39a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">3 months</text>
+    <text x="474" y="32" fill="#9bb39a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">this month</text>
     
   </g>
 </svg>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="t d">
-  <title id="t">Circuits activity, 3 months</title>
+  <title id="t">Circuits activity, this month</title>
   <desc id="d">Decorative activity curve for a three-month span.</desc>
   <defs>
     <clipPath id="clip"><rect width="495" height="180" rx="12"/></clipPath>
@@ -36,7 +36,7 @@
     <path d="M 154.0 136.0 C 158.2 133.9 170.9 124.5 179.3 123.5 C 187.8 122.5 196.2 132.0 204.7 129.7 C 213.1 127.3 221.6 111.2 230.0 109.4 C 238.4 107.6 246.9 121.1 255.3 118.8 C 263.8 116.5 272.2 96.2 280.7 95.4 C 289.1 94.6 297.6 113.2 306.0 114.1 C 314.4 115.0 322.9 106.1 331.3 100.9 C 339.8 95.7 348.2 80.2 356.7 82.9 C 365.1 85.6 373.6 118.2 382.0 117.2 C 390.4 116.2 398.9 79.0 407.3 76.7 C 415.8 74.4 424.2 101.1 432.7 103.2 C 441.1 105.3 453.8 91.5 458.0 89.2" fill="none" stroke="#8fd6b8" stroke-width="2.15" stroke-linejoin="round" stroke-linecap="round"/>
     <line x1="154" y1="150" x2="458" y2="150" stroke="#8fd6b8" stroke-opacity="0.25"/>
     <circle cx="458.0" cy="89.2" r="3.4" fill="#8fd6b8"/><circle cx="458.0" cy="89.2" r="1.7" fill="#0e1411"/>
-    <text x="474" y="32" fill="#7ea894" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">3 months</text>
+    <text x="474" y="32" fill="#7ea894" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">this month</text>
     
   </g>
 </svg>
