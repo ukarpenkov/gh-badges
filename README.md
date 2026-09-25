@@ -4,6 +4,8 @@ Ten cards for a GitHub profile README. Each one shows the current calendar month
 
 Live numbers come from a Node server (`server.js`). It fetches the contribution calendar from GitHub and draws an SVG. Files in `badges/` are visual templates; they do not know which account they belong to. The corner reads like `349 contributions` plus the month (`sept`, `oct`). Each day is a peak labeled with that day's count. Height is scaled to the busiest day in the month.
 
+Anime, Cats, and Automotive bake a photo into the template (`badges/assets/`). Cats and Automotive keep the picture on the left and fade it into the dark chart. Anime fills the card with the photo and draws a lime curve across the right side. The server replaces the curve, the day counts, and the corner total.
+
 ```bash
 node server.js
 ```
@@ -34,6 +36,8 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 
 ### Anime
 
+Full-bleed photo, lime curve on the right.
+
 ![Anime](badges/anime.svg)
 
 ```html
@@ -42,6 +46,8 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 
 ### Cats
 
+Kitten on the left, cyan curve where the photo fades out.
+
 ![Cats](badges/cats.svg)
 
 ```html
@@ -49,6 +55,8 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 ```
 
 ### Automotive
+
+Car on the left, red curve where the photo fades out.
 
 ![Automotive](badges/automotive.svg)
 
