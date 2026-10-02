@@ -18,20 +18,36 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 
 ## Themes
 
-### Elvish
+### Cubism
 
-![Elvish](badges/elvish.svg)
+![Cubism](badges/cubism.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/elvish?user=username" alt="activity this month, elvish theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/cubism?user=username" alt="activity this month, cubism" width="495" height="180">
 ```
 
-### Mountain
+### Fallout
 
-![Mountain](badges/mountain.svg)
+![Fallout](badges/fallout.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/mountain?user=username" alt="activity this month, mountain theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/fallout?user=username" alt="activity this month, Fallout" width="495" height="180">
+```
+
+### Minecraft
+
+![Minecraft](badges/minecraft.svg)
+
+```html
+<img src="https://gh-badges-nine.vercel.app/minecraft?user=username" alt="activity this month, Minecraft" width="495" height="180">
+```
+
+### LEGO
+
+![LEGO](badges/lego.svg)
+
+```html
+<img src="https://gh-badges-nine.vercel.app/lego?user=username" alt="activity this month, LEGO" width="495" height="180">
 ```
 
 ### Anime
@@ -54,6 +70,14 @@ Kitten with a flower crown on the left, fading into a bright pink fairy garden w
 <img src="https://gh-badges-nine.vercel.app/cats?user=username" alt="activity this month, cats" width="495" height="180">
 ```
 
+### Mountain
+
+![Mountain](badges/mountain.svg)
+
+```html
+<img src="https://gh-badges-nine.vercel.app/mountain?user=username" alt="activity this month, mountain theme" width="495" height="180">
+```
+
 ### Automotive
 
 Car on the left, red curve where the photo fades out.
@@ -64,42 +88,18 @@ Car on the left, red curve where the photo fades out.
 <img src="https://gh-badges-nine.vercel.app/automotive?user=username" alt="activity this month, automotive theme" width="495" height="180">
 ```
 
+### Elvish
+
+![Elvish](badges/elvish.svg)
+
+```html
+<img src="https://gh-badges-nine.vercel.app/elvish?user=username" alt="activity this month, elvish theme" width="495" height="180">
+```
+
 ### Circuits
 
 ![Circuits](badges/circuits.svg)
 
 ```html
 <img src="https://gh-badges-nine.vercel.app/circuits?user=username" alt="activity this month, circuits" width="495" height="180">
-```
-
-### Cubism
-
-![Cubism](badges/cubism.svg)
-
-```html
-<img src="https://gh-badges-nine.vercel.app/cubism?user=username" alt="activity this month, cubism" width="495" height="180">
-```
-
-### Fallout
-
-![Fallout](badges/fallout.svg)
-
-```html
-<img src="https://gh-badges-nine.vercel.app/fallout?user=username" alt="activity this month, Fallout" width="495" height="180">
-```
-
-### LEGO
-
-![LEGO](badges/lego.svg)
-
-```html
-<img src="https://gh-badges-nine.vercel.app/lego?user=username" alt="activity this month, LEGO" width="495" height="180">
-```
-
-### Minecraft
-
-![Minecraft](badges/minecraft.svg)
-
-```html
-<img src="https://gh-badges-nine.vercel.app/minecraft?user=username" alt="activity this month, Minecraft" width="495" height="180">
 ```
