@@ -98,8 +98,10 @@ Car on the left, red curve where the photo fades out.
 
 ### Circuits
 
+PCB-inspired controller board with an orthogonal activity trace, glowing signal vias, copper routes, and an output test pad.
+
 ![Circuits](badges/circuits.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/circuits?user=username" alt="activity this month, circuits" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/circuits?user=username" alt="monthly GitHub activity drawn as a glowing PCB signal trace" width="495" height="180">
 ```
