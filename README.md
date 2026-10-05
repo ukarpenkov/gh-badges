@@ -90,10 +90,12 @@ Car on the left, red curve where the photo fades out.
 
 ### Elvish
 
+Night-elf glade: indigo dusk, a silver tree, a glowing moonwell, and a Radiant tower crowned with a gold-green crystal.
+
 ![Elvish](badges/elvish.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/elvish?user=username" alt="activity this month, elvish theme" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/elvish?user=username" alt="monthly GitHub activity across a night-elf moonwell and a Radiant tower" width="495" height="180">
 ```
 
 ### Circuits
