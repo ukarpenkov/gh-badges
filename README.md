@@ -72,6 +72,8 @@ Kitten with a flower crown on the left, fading into a bright pink fairy garden w
 
 ### Mountain
 
+Stronghold under a clear sky. The activity line is an ice-blue ridgeline, with a dot on each day.
+
 ![Mountain](badges/mountain.svg)
 
 ```html
