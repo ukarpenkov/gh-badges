@@ -48,12 +48,12 @@ Paste one of the lines below into your profile `README.md`. Each card has its ow
 <img src="https://gh-badges-nine.vercel.app/lego?user=username" alt="activity this month, LEGO" width="495" height="180">
 ```
 
-### Anime
+### Lo-fi
 
-![Anime](badges/anime.svg)
+![Lo-fi](badges/lo-fi.svg)
 
 ```html
-<img src="https://gh-badges-nine.vercel.app/anime?user=username" alt="activity this month, anime" width="495" height="180">
+<img src="https://gh-badges-nine.vercel.app/lo-fi?user=username" alt="activity this month, lo-fi" width="495" height="180">
 ```
 
 ### Cats
